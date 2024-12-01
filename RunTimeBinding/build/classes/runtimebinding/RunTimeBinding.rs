@@ -1,0 +1,4 @@
+runtimebinding.CreditCardPayment
+runtimebinding.PayPalPayment
+runtimebinding.Payment
+runtimebinding.RunTimeBinding
